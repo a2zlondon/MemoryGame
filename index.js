@@ -1,5 +1,4 @@
 
-  //card options
   const cardArray = [
     {
       name: 'camera',
